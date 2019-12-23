@@ -1,0 +1,13 @@
+{
+    "name": "dasauser/shitty-logger",
+    "description": "another shitty logger",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dasauser",
+            "email": "dasauser@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
